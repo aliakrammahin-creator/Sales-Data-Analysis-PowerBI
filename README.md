@@ -28,6 +28,8 @@ This dashboard was built to answer the following business questions:
    - Discount Percentage
    - Net Sales
    - Quantity Sold
+## Dashboard
+https://github.com/aliakrammahin-creator/Sales-Data-Analysis-PowerBI/blob/main/Sales%20Analysis%20Dashboard.png
 ## Dataset
 The dashboard is built using a retail sales dataset containing:
 - Sales Transactions
