@@ -3,6 +3,8 @@
 ## Project Overview
 This project is an interactive Power BI Sales Dashboard developed to analyse sales performance and answer key business questions. The objective was to transform raw sales data into actionable business insights through data modelling, DAX calculations, and interactive visualisations. The dashboard enables users to analyse product performance, sales trends, profitability, promotions, customer orders, and geographic sales distribution.
 The report was designed using a Star Schema data model and DAX measures to provide dynamic insights into business performance.
+## Dataset used
+https://github.com/aliakrammahin-creator/Sales-Data-Analysis-PowerBI/blob/main/Store%2BData.xlsx
 ## Business Questions Answered
 This dashboard was built to answer the following business questions:
 1. Analyse average discount across different promotion categories.
